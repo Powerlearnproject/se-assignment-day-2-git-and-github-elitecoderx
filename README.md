@@ -100,7 +100,3 @@
   - Use branches for features
   - Regularly pull and sync
   - Use PRs for team reviews
-
----
-
-Let me know if you'd like a printable summary or slides version of this!
